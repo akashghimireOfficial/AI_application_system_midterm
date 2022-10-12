@@ -34,9 +34,10 @@ The contents of this weeks were:
 
 
 ## Week 6
-In this week we have two lab session. In the first lab session we learn to train custom made dataset using tensorflow. The training include implementation of similar linear regression algorithm. 
+In this week we have two lab session. In the *first lab session* we learn to train custom made dataset using tensorflow. The training include implementation of similar linear regression algorithm. 
 <br>
-In the second lab session, we learned to denoised the image using Deep learning technique known as ***autoencoder***.
+In the *second lab session*, we learned to denoised the image using Deep learning technique known as ***autoencoder***.
+<br>
 > **An autoencoder is a type of artificial neural network used to learn efficient codings of unlabeled data (unsupervised learning).[1] The encoding is validated and refined by attempting to regenerate the input from the encoding. The autoencoder learns a representation (encoding) for a set of data, typically for dimensionality reduction, by training the network to ignore insignificant data (“noise”).**
 
 
