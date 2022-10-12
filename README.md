@@ -10,7 +10,7 @@ student id: 12194814
 
 ````
 
-For this assignment, i have created folders for each weeks. Each of these folders have jupyter notebooks files for each lab sessions.<strong> To explain the code *markdown* languages have been used to explain about the code functionality. </strong>
+For this assignment, i have created folders for each weeks. Each of these folders have jupyter notebook files.<strong> To explain the code *markdown* languages have been used. </strong>
 
 
 > *Tensorflow 2.0 + has been used as Deep learning Framework for this assignment.*
