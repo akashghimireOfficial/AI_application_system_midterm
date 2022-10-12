@@ -32,6 +32,14 @@ The contents of this weeks were:
 
 <br>
 
+
+## Week 6
+In this week we have two lab session. In the first lab session we learn to train custom made dataset using tensorflow. The training include implementation of similar linear regression algorithm. 
+<br>
+In the second lab session, we learned to denoised the image using Deep learning technique known as ***autoencoder***. Furthermore, this model can also be used to compress the dataset itself. 
+
+<br>
+
 ## Week 7
 In this week we learned about theoretical and coding aspects of Convulutional Neural Network(CNN). During the lab session we used cifar 10 datasets.
 <br>
