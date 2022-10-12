@@ -1,1 +1,7 @@
-# AI_application_system_midterm
+# AI Application System Midterm Assignment
+
+````
+Name: Akash Ghimire
+student id: 12194814
+
+````
