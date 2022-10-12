@@ -8,3 +8,5 @@ Name: Akash Ghimire
 student id: 12194814
 
 ````
+
+For this assignment, i have created folders for each weeks. Each of these folders have jupyter notebooks files for each lab sessions.** To explain the code ***markdown*** languages have been used to explain about the code functionality. **
