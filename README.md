@@ -27,7 +27,7 @@ The contents of this weeks were:
 2. [Gradient Descent](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/Automatic_differentiation.ipynb)
 3. [tf.Variables](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/variables.ipynb)
 4. [Graph Computation](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/Graphs_and_functions.ipynb)
-5. [tf.Summary(Tensorboard Visualization)]
+5. [tf.Summary(Tensorboard Visualization)](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/tf_summary.ipynb)
 
 
 
