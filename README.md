@@ -20,9 +20,9 @@ To make the task simpler i have created separate jupyter notebook for each of th
 <br>
 The contents of this weeks were: 
 > Clicking on the following lists will directly take you the respected jupyter notebook file.
-1. [tf.constant and basic tf.math] (https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/Tensors.ipynb)
-2. [tf.Variables] (https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/variables.ipynb)
-3. [Graph Computation] (https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/Graphs_and_functions.ipynb)
+1. [tf.constant and basic tf.math](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/Tensors.ipynb)
+2. [tf.Variables](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/variables.ipynb)
+3. [Graph Computation](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/Graphs_and_functions.ipynb)
 4. [tf.Summary] 
 
 
