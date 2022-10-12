@@ -19,10 +19,11 @@ In this week, we learned basic of tensors in tensorflow which including creating
 To make the task simpler i have created separate jupyter notebook for each of these smaller tasks.
 <br>
 The contents of this weeks were: 
-1. tf.constant
-2. tf.Variables
-3. Graph Computation
-4. tf.Summary
+> Clicking on the following lists will directly take you the respected jupyter notebook file.
+1. [tf.constant and basic tf.math] (https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/Tensors.ipynb)
+2. [tf.Variables] (https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/variables.ipynb)
+3. [Graph Computation] (https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/Graphs_and_functions.ipynb)
+4. [tf.Summary] 
 
 
 
