@@ -18,7 +18,7 @@ For this assignment, i have created folders for each weeks. Each of these folder
 <br>
 
 ## Week 5
-In this week, we learned basic of tensors in tensorflow which including creating tensors and performing different mathematical operation with created tensors. Furthermore, we learned about computational graph and visualizing our task using tensorboard to analyse and visualize our task. 
+In this week we learned basic of tensors in tensorflow which including creating tensors and performing different mathematical operation with created tensors. Furthermore, we learned about computational graph and visualizing our task using tensorboard to analyse and visualize our task. 
 To make the task simpler i have created separate jupyter notebook for each of these smaller tasks.
 <br>
 The contents of this weeks were: 
@@ -29,6 +29,13 @@ The contents of this weeks were:
 4. [Graph Computation](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/Graphs_and_functions.ipynb)
 5. [tf.Summary(Tensorboard Visualization)](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_5/tf_summary.ipynb)
 
+
+<br>
+
+## Week 7
+In this week we learned about theoretical and coding aspects of Convulutional Neural Network(CNN). During the lab session we used cifar 10 datasets.
+<br>
+> The CIFAR-10 dataset (Canadian Institute for Advanced Research, 10 classes) is a subset of the Tiny Images dataset and consists of 60000 32x32 color images. The images are labelled with one of 10 mutually exclusive classes: airplane, automobile (but not truck or pickup truck), bird, cat, deer, dog, frog, horse, ship, and truck (but not pickup truck). There are 6000 images per class with 5000 training and 1000 testing images per class.
 
 
   
