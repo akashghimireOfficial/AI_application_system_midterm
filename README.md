@@ -15,6 +15,8 @@ For this assignment, i have created folders for each weeks. Each of these folder
 > *Tensorflow 2.0 + has been used as Deep learning Framework for this assignment.*
 
 ## Week 5
+In this week, we learned basic of tensors in tensorflow which including creating tensors and performing different mathematical operation with created tensors. Furthermore, we learned about computational graph and visualizing our task using tensorboard to analyse and visualize our task. 
+
 
 
   
