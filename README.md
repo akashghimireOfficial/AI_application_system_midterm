@@ -39,4 +39,3 @@ In this week we learned about theoretical and coding aspects of Convulutional Ne
 
 
   
-
