@@ -17,6 +17,14 @@ For this assignment, i have created folders for each weeks. Each of these folder
 
 <br>
 
+## Week 3_and_4
+In these weeks we learn most of the theoretical stuffs behind how simple preceptons in deep learning networks works. **We learned about basics component of preceptron i.e.weights and bias. We also learn about ** forward passing, activation function, backward passing, loss , and error functions.** 
+<br>
+> In the lab section we build simple neural network from the scratch. The code can be found under week 3_and_4 folder. The codes are explained well using jupyter notebook markdown language. 
+<br>
+Below is the link for the code:
+1. [link]()
+
 ## Week 5
 In this week we learned basic of tensors in tensorflow which including creating tensors and performing different mathematical operation with created tensors. Furthermore, we learned about computational graph and visualizing our task using tensorboard to analyse and visualize our task. 
 To make the task simpler i have created separate jupyter notebook for each of these smaller tasks.
