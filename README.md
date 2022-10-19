@@ -13,7 +13,7 @@ student id: 12194814
 For this assignment, i have created folders for each weeks. Each of these folders have jupyter notebook files.<strong> To explain the code *markdown* languages have been used. </strong>
 
 
-> *Tensorflow 2.0 + has been used as Deep learning Framework for this assignment.*
+> *Tensorflow 2.0 + has been used as Deep learning Framework for this assignment.* <br> "Codes are explained better in jupyter-notebook itself using markdown language"
 
 <br>
 
