@@ -23,7 +23,8 @@ In these weeks we learn most of the theoretical stuffs behind how simple precept
 > In the lab section we build simple neural network from the scratch. The code can be found under week 3_and_4 folder. The codes are explained well using jupyter notebook markdown language. 
 <br>
 Below is the link for the code:
-1. [building neural network from scratch](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/Week%203_and_4/nn_from_scratch.ipynb)
+
+  [nn from scratch](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/Week%203_and_4/nn_from_scratch.ipynb)
 
 ## Week 5
 In this week we learned basic of tensors in tensorflow which including creating tensors and performing different mathematical operation with created tensors. Furthermore, we learned about computational graph and visualizing our task using tensorboard to analyse and visualize our task. 
