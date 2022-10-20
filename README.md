@@ -44,6 +44,7 @@ The contents of this weeks were:
 
 ## Week 6
 In this week we have two lab session. In the *first lab session* we learn to train custom made dataset using tensorflow. The training include implementation of similar linear regression algorithm. 
+In the first lab session of this week we learned: 1)  training a simple **Linear Regression** model on custom training datasets and 2) training a model on **MNIST**
 <br>
 In the *second lab session*, we learned to denoised the image using Deep learning technique known as ***autoencoder***.
 <br>
