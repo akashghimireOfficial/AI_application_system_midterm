@@ -46,9 +46,9 @@ The contents of this weeks were:
 
 ## Week 6
 In this week we have two lab session. In the *first lab session* we learn to train custom made dataset using tensorflow. The training include implementation of a simple linear regression algorithm.  
-In the first lab session of this week we learned: 1)  training a simple **Linear Regression** model on custom training datasets and 2) training a model on **MNIST**
+In the first lab session of this week we learned the following: 1)  training a simple **Linear Regression** model on custom training datasets and 2) training a model on **MNIST**
 <br>
-**The code for this session is under week 7 folder and can be directed from given [linear regression](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_6/6_1(regression).ipynb).**
+**The code for this session is under week 6 folder and can be directed from given [linear regression](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_6/6_1(regression).ipynb) and [MNIST]()**
 
 <br>
 
