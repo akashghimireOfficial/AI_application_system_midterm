@@ -18,7 +18,7 @@ student id: 12194814
 1. Each week lab session have its own corresponding folder.
 2. Summary of each lab session has been explained beautifully in the Readme.md file.
 3. Each jupyter note book file have detailed explanation of lab session. **Theoretical explanation have been explained in well mannered using markdown language in the jupyter notebook.**
-4. **Although every jupyter notebook represents similar concepts from lab session, all codes were coded by myself.**
+4. **None of the jupyter notebook files have  been copied from the lab session.**
 5. Trained model has also been visualised using tensorboard. And can be found under respective lab session.
 
 
