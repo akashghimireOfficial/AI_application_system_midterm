@@ -54,7 +54,7 @@ In the *second lab session*, we learned to denoised the image using Deep learnin
 <br>
 
 ## Week 7
-In this week we learned about theoretical and coding aspects of Convulutional Neural Network(CNN). During the lab session we used cifar 10 datasets.
+In this week we learned about theoretical and coding aspects of Convulutional Neural Network(CNN). During the lab session we used cifar 10 datasets and trained our CNN model on it. To visualise the result we use tensorboard callback.
 <br>
 >**A convolutional neural network (CNN) is a deep learning network architecture that learns directly from data, eliminating the need for manual feature extraction.CNNs are especially useful for detecting patterns in images in order to recognize objects, faces, and scenes.**
 
@@ -63,5 +63,5 @@ In this week we learned about theoretical and coding aspects of Convulutional Ne
 
 > The CIFAR-10 dataset (Canadian Institute for Advanced Research, 10 classes) is a subset of the Tiny Images dataset and consists of 60000 32x32 color images. The images are labelled with one of 10 mutually exclusive classes: airplane, automobile (but not truck or pickup truck), bird, cat, deer, dog, frog, horse, ship, and truck (but not pickup truck). There are 6000 images per class with 5000 training and 1000 testing images per class.
 
-To make the model more robust to physical challanges such as illumination,rotation,shearing, and many more we used Image augumentation techniques.
+**The code for this session is under week 7 folder and can be directed from given link.**
   
