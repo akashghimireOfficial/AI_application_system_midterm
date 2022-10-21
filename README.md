@@ -56,7 +56,7 @@ In the *second lab session*, we learned to denoised the image using Deep learnin
 ## Week 7
 In this week we learned about theoretical and coding aspects of Convulutional Neural Network(CNN). During the lab session we used cifar 10 datasets.
 <br>
->A convolutional neural network (CNN) is a deep learning network architecture that learns directly from data, eliminating the need for manual feature extraction.CNNs are especially useful for detecting patterns in images in order to recognize objects, faces, and scenes.\
+>**A convolutional neural network (CNN) is a deep learning network architecture that learns directly from data, eliminating the need for manual feature extraction.CNNs are especially useful for detecting patterns in images in order to recognize objects, faces, and scenes.**
 
 <br>
 
