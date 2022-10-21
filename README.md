@@ -19,6 +19,8 @@ student id: 12194814
 2. Summary of each lab session has been explained beautifully in the Readme.md file.
 3. Each jupyter note book file have detailed explanation of lab session. **Theoretical explanation have been explained in well mannered using markdown language in the jupyter notebook.**
 4. **Although every jupyter notebook represents similar concepts from lab session, all codes were coded by myself.**
+5. Trained model has also been visualised using tensorboard. And can be found under respective lab session.
+
 
 <br>
 
@@ -75,6 +77,8 @@ In this week we learned about theoretical and coding aspects of Convulutional Ne
 > The CIFAR-10 dataset (Canadian Institute for Advanced Research, 10 classes) is a subset of the Tiny Images dataset and consists of 60000 32x32 color images. The images are labelled with one of 10 mutually exclusive classes: airplane, automobile (but not truck or pickup truck), bird, cat, deer, dog, frog, horse, ship, and truck (but not pickup truck). There are 6000 images per class with 5000 training and 1000 testing images per class.
 
 **The code for this session is under week 7 folder and can be directed from given [cifar 10(CNN)](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_7/week_7(CNN).ipynb).**
+
+
 
 
   
