@@ -10,10 +10,15 @@ student id: 12194814
 
 ````
 
-For this assignment, i have created folders for each weeks. Each of these folders have jupyter notebook files.<strong> To explain the code *markdown* languages have been used. </strong>
+*Tensorflow 2.0 + has been used as Deep learning Framework for this assignment.*
 
 
-> *Tensorflow 2.0 + has been used as Deep learning Framework for this assignment.* <br> "Codes are explained better in jupyter-notebook itself using markdown language"
+## Strong points of this Repository
+
+1. Each week lab session have its own corresponding folder.
+2. Summary of each lab session has been explained beautifully in the Readme.md file.
+3. Each jupyter note book file have detailed explanation of lab session. **Theoretical explanation have been explained in well mannered using markdown language in the jupyter notebook.**
+4. **Although every jupyter notebook represents similar concepts from lab session, all codes were coded by myself. **
 
 <br>
 
