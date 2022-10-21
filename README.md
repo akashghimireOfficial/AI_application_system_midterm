@@ -21,10 +21,12 @@ For this assignment, i have created folders for each weeks. Each of these folder
 In these weeks we learn most of the theoretical stuffs behind how simple preceptons in deep learning networks works. **We learned about basics component of preceptron i.e.weights and bias. We also learn about ** forward passing, activation function, backward passing, loss , and error functions.** 
 <br>
 > In the lab section we build simple neural network from the scratch. The code can be found under week 3_and_4 folder. The codes are explained well using jupyter notebook markdown language. 
-<br>
-Below is the link for the code:
 
-  [nn from scratch](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/Week%203_and_4/nn_from_scratch.ipynb)
+
+
+**The code for this session is under week 3_and_4 folder and can be directed from this link [nn from scratch](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/Week%203_and_4/nn_from_scratch.ipynb).**
+
+  
 
 ## Week 5
 In this week we learned basic of tensors in tensorflow which including creating tensors and performing different mathematical operation with created tensors. Furthermore, we learned about computational graph and visualizing our task using tensorboard to analyse and visualize our task. 
@@ -63,7 +65,7 @@ In this week we learned about theoretical and coding aspects of Convulutional Ne
 
 > The CIFAR-10 dataset (Canadian Institute for Advanced Research, 10 classes) is a subset of the Tiny Images dataset and consists of 60000 32x32 color images. The images are labelled with one of 10 mutually exclusive classes: airplane, automobile (but not truck or pickup truck), bird, cat, deer, dog, frog, horse, ship, and truck (but not pickup truck). There are 6000 images per class with 5000 training and 1000 testing images per class.
 
-**The code for this session is under week 7 folder and can be directed from given [cifar 10](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_7/week_7(CNN).ipynb).**
+**The code for this session is under week 7 folder and can be directed from given [cifar 10(CNN)](https://github.com/akashghimireOfficial/AI_application_system_midterm/blob/master/week_7/week_7(CNN).ipynb).**
 
 
   
